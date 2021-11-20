@@ -1,4 +1,4 @@
-# Beast-Cancer-Detetction-using-3-models
+# Breast-Cancer-Detetction-using-3-models
 
 Breast cancer detetcion using :
 -> Linear regression
